@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janavi-s05&label=Profile%20views&color=0e75b6&style=flat" alt="janavi-s05" /> </p>
 
-- 📄 Know about my experiences [Here](https://www.overleaf.com/project/666d75d75690e10735768e29)
+- 📄 Know more about [ME](https://www.overleaf.com/project/666d75d75690e10735768e29)
 
 ---
 
@@ -11,7 +11,7 @@
 
 ### Frontend:
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.w3.org/html/" target="" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -87,22 +87,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janavi-s05&show_icons=true&locale=en" alt="janavi-s05" /></p>
 
 ### Coding Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janavi-s05&" alt="janavi-s05" /></p>
-
----
-
-### Pinned Repos:
-<p align="left">
-  <a href="https://github.com/janavi-s05/repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=janavi-s05&repo=repo1" alt="repo1" />
-  </a>
-  <a href="https://github.com/janavi-s05/repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=janavi-s05&repo=repo2" alt="repo2" />
-  </a>
-  <a href="https://github.com/janavi-s05/repo3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=janavi-s05&repo=repo3" alt="repo3" />
-  </a>
-</p>
+<p><img align="center" src="https://leetcode.com/u/janavisivakumar05/?user=janavi-s05&" alt="janavi-s05" /></p>
 
 ---
 
