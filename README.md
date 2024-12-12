@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-photo/html-css-collage-concept_23-2150061955.jpg" style="width: 100%; height: 150px; object-fit: cover;" alt="HTML CSS Collage">
+<img src="https://img.freepik.com/free-photo/html-css-collage-concept_23-2150061955.jpg" style="width: 100%; height: 450px; object-fit: cover;" alt="HTML CSS Collage">
 <h1 align="center">Hey Techies 👋, I'm Janavi S</h1>
 <h3 align="center">Problem Solver | Writing Code That Powers Solutions</h3>
 
