@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-photo/html-css-collage-concept_23-2150061955.jpg?t=st=1734024889~exp=1734028489~hmac=d2d2a6fed0d022de835183c8ed1f9f235a4517ebd5a59e51e49d7f225cc81d49&w=1060)](https://janavi-s05.io)
+[![MasterHead](https://img.freepik.com/free-photo/html-css-collage-concept_23-2150061955.jpg)](https://janavi-s05.io)
 <h1 align="center">Hey Techies 👋, I'm Janavi S</h1>
 <h3 align="center">Problem Solver | Writing Code That Powers Solutions</h3>
 
