@@ -42,7 +42,7 @@
 ---
 
 ### Coding Stats:
-<img align="center" src="https://leetcode.com/u/janavisivakumar05/?user=janavi-s05&" alt="janavi-s05" />
+![Leetcode Stats](https://leetcode.com/u/janavisivakumar05/)
 
 ---
 
