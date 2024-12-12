@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janavi-s05&label=Profile%20views&color=0e75b6&style=flat" alt="janavi-s05" /> </p>
 
 - 📄 Get to know more about [ME](https://pdf.ac/49lxJt)
+- <a href="C:\Users\Janavi S\Documents\New resume\Overleaf\Janavi_S Resume.pdf" class="image fit" ></a>
 
 ---
 
