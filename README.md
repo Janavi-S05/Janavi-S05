@@ -42,8 +42,7 @@
 ---
 
 ### Coding Stats:
-![Leetcode Stats](https://leetcode.com/u/janavisivakumar05/)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/janavisivakumar05?theme=light&font=Noto%20Sans%20Hebrew)
 ---
 
 ### Get in Touch:
