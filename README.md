@@ -4,8 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janavi-s05&label=Profile%20views&color=0e75b6&style=flat" alt="janavi-s05" /> </p>
 
-- 📄 Get to know more about [ME](https://pdf.ac/49lxJt)
-- [embed]C:\Users\Janavi S\Documents\New resume\Overleaf\Janavi_S Resume.pdf[/embed]
+- 📄 Get to know more about [ME](https://drive.google.com/file/d/1_luZ5WKLZDZqQW_YgdCHxBFIGWY5XhJw/view?usp=drive_link)
+
+- [embed]https://drive.google.com/file/d/1_luZ5WKLZDZqQW_YgdCHxBFIGWY5XhJw/view?usp=drive_link[/embed]
 - <a href="C:\Users\Janavi S\Documents\New resume\Overleaf\Janavi_S Resume.pdf" class="image fit" ></a>
 
 ---
