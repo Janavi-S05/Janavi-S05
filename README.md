@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janavi-s05&label=Profile%20views&color=0e75b6&style=flat" alt="janavi-s05" /> </p>
 
- 📄 Get to know more about [ME](https://drive.google.com/file/d/1_luZ5WKLZDZqQW_YgdCHxBFIGWY5XhJw/view?usp=drive_link)
+ 📄 Know More About [Me](https://drive.google.com/file/d/1_luZ5WKLZDZqQW_YgdCHxBFIGWY5XhJw/view?usp=drive_link)
 ---
 
 <h3 align="left">Technologies I Work With</h3>
@@ -45,7 +45,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/janavisivakumar05?theme=nord&font=Noto%20Sans%20Hebrew)
 ---
 
-### Get in Touch:
+### Check Out the Work:
 - 📍 [Portfolio](https://your-portfolio-link.com)
 - 🔗 [Linktree](https://linktr.ee/janavi_s)
 - 💻 [LeetCode Profile](https://leetcode.com/u/janavisivakumar05/)
