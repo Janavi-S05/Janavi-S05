@@ -46,7 +46,7 @@
 ---
 
 ### Check Out the Work:
-- 📍 [Portfolio](https://your-portfolio-link.com)
+- 📍 [Portfolio](https://janavi-s05.github.io/Portfolio/)
 - 🔗 [Linktree](https://linktr.ee/janavi_s)
 - 💻 [LeetCode Profile](https://leetcode.com/u/janavisivakumar05/)
 - 💻 [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/janavisivakumar05/)
