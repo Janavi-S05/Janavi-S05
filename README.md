@@ -7,7 +7,7 @@
  📄 Know More About [Me](https://drive.google.com/file/d/1_luZ5WKLZDZqQW_YgdCHxBFIGWY5XhJw/view?usp=drive_link)
 ---
 
-<h3 align="left">Technologies I Work With</h3>
+<h3 align="left">Technologies I Work With</h3> 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/>
