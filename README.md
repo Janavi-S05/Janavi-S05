@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janavi-s05&label=Profile%20views&color=0e75b6&style=flat" alt="janavi-s05" /> </p>
 
- 📄 Know More About [Me](https://drive.google.com/file/d/1_luZ5WKLZDZqQW_YgdCHxBFIGWY5XhJw/view?usp=drive_link)
+ 📄 Know More About [Me](https://drive.google.com/file/d/10bCJ8yn38C1jAJ6xTL44tzLK_iqSThYz/view?usp=sharing)
 ---
 
 <h3 align="left">Technologies I Work With</h3> 
