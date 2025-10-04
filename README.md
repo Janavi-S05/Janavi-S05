@@ -25,7 +25,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="70" height="70"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Boot.svg" alt="spring boot logo" width="70" height="70"/>
+
 
 ### Tools and Platforms:
 <p align="left">
