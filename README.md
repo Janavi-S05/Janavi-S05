@@ -5,7 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janavi-s05&label=Profile%20views&color=0e75b6&style=flat" alt="janavi-s05" /> </p>
 
 
-### Do checkout my Blog  [Medium_Blog](https://medium.com/@janavisivakumar05)
+### Do checkout my [Medium_Blog](https://medium.com/@janavisivakumar05) <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/bac39a09-aec5-4485-95ac-2944b90f25f0" />
+
 
 <h3 align="left">Technologies I Work With</h3> 
 <p align="left">
