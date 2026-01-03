@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janavi-s05&label=Profile%20views&color=0e75b6&style=flat" alt="janavi-s05" /> </p>
 
-<p>Do checkout my Blogs </p> - [Medium_Blog](https://medium.com/@janavisivakumar05)
+### Do checkout my Blog
+[Medium_Blog](https://medium.com/@janavisivakumar05)
 
 <h3 align="left">Technologies I Work With</h3> 
 <p align="left">
