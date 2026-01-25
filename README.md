@@ -1,6 +1,6 @@
  <img src="https://i.imgur.com/TDrfjm0.jpg" style="width: 100%; height: 250px; object-fit: cover;" alt="HTML CSS Collage">
 <h1 align="center">Hey Techies 👋, I'm Janavi S</h1>
-<h3 align="center">Problem Solver | Writing Code That Powers Solutions</h3> 
+<h3 align="center">Problem Solver | Tinkering with Code to Power Real-World Solutions</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janavi-s05&label=Profile%20views&color=0e75b6&style=flat" alt="janavi-s05" /> </p>
 
