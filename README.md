@@ -26,19 +26,19 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="70" height="70"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="70" height="70"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/> 
-    
+</p>
 
 
 
 ### Tools and Platforms:
 <p align="left">
-<img src="https://img.icons8.com/?size=96&id=0OQR1FYCuA9f&format=png" alt="VSCode" width="70" height="70"/>
+    <img src="https://img.icons8.com/?size=96&id=0OQR1FYCuA9f&format=png" alt="VSCode" width="70" height="70"/>
     <img src="https://img.icons8.com/?size=96&id=vinpBD5oA3b4&format=png" alt="PyCharm" width="70" height="70"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/500px-Jupyter_logo.svg.png" alt="Jupyter" width="70" height="70"/>
-<img src="https://img.icons8.com/?size=160&id=rPAHs7H1vriV&format=png" alt="Eclipse" width="70" height="70"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/500px-Jupyter_logo.svg.png" alt="Jupyter" width="70" height="70"/>
+    <img src="https://img.icons8.com/?size=160&id=rPAHs7H1vriV&format=png" alt="Eclipse" width="70" height="70"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" height="70"/>
-
+    <img src="https://img.icons8.com/color/96/gitlab.png" alt="GitLab" width="70" height="70"/>
 </p>
 
 
