@@ -7,7 +7,7 @@
 📖 **Check out my :**  [Medium Blog](https://medium.com/@janavisivakumar05)
 
 <h3 align="left">Technologies I Work With</h3> 
-<p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/>
   <img src="https://img.icons8.com/color/96/spring-logo.png" alt="Spring Boot" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/> 
@@ -25,7 +25,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="70" height="70"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="70" height="70"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/> 
-</p>
+</div>
 
 
 
