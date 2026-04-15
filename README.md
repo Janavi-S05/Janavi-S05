@@ -7,7 +7,7 @@
 📖 **Check out my :**  [Medium Blog](https://medium.com/@janavisivakumar05)
 
 <h3 align="left">Technologies I Work With</h3> 
-<p align="left">
+<p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/>
   <img src="https://img.icons8.com/color/96/spring-logo.png" alt="Spring Boot" width="70" height="70"/>
